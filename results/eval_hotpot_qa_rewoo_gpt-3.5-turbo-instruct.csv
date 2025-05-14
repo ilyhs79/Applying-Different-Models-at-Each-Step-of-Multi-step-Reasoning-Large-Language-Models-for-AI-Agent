@@ -1,0 +1,101 @@
+question,answer,preds,em,f1,acc,wall_time,total_tokens,steps,tool_cost,token_cost,total_cost
+"Noble is a 2014 film written and directed by Stephen Bradley about the true life story of Christina Noble, a children's rights campaigner, charity worker and writer, it stars Sarah Greene, an Irish actress and singer, best known for portraying Helen McCormick in the West End and Broadway productions of what?",The Cripple of Inishmaan,The Cripple of Inishmaan.,True,1.0,1,7.574410915374756,3511.0,5.0,0.02,0.07022,0.09022000000000001
+Who was the English clergyman and Archbishop of Trier Otto von Ziegenhain that led the Battle of Tachov?,Henry Beaufort,Otto von Ziegenhain was the English clergyman and Archbishop of Trier that led the Battle of Tachov.,False,0.0,0,3.9867167472839355,2794.0,3.0,0.01,0.055880000000000006,0.06588000000000001
+Which fictional character in the Harry Potter film was played by Robbie Coltrane? ,Rubeus Hagrid,Rubeus Hagrid,True,1.0,1,5.200646638870239,3590.0,3.0,0.01,0.0718,0.0818
+"What Classification is the album by UK band Seccond Person, and a musical genre that originated in the early 1990s in the United Kingdom, especially Bristol?",Trip hop,"The album by Seccond Person falls under the musical genre of bassline, which originated in the early 1990s in the United Kingdom, specifically in Bristol.",False,0.0,1,8.081077814102173,2153.0,5.0,0.02,0.04306,0.06306
+"What actor from The Imitation Game also starred in ""Revolver"", ""RocknRolla"" and ""Sherlock Holmes""?",Mark Strong,"The actor from The Imitation Game who also starred in ""Revolver"", ""RocknRolla"" and ""Sherlock Holmes"" is Mark Strong.",False,0.2222222222222222,1,12.503180027008057,5584.0,6.0,0.04,0.11168,0.15168
+This 2006 Iowa Hawkeyes football coach played for University of Connecticut in 1976 as a linebacker?,Kirk Ferentz,nan,False,0.0,0,,,,,,
+Ikivo Animator integrates with a software application developed by which company?,Adobe Systems,Adobe,False,0.6666666666666666,1,6.523167848587036,2765.0,5.0,0.02,0.0553,0.0753
+What American actress born in 1912 did the violin master known for his sweet tone and gemütlich style compose a work for?,Marta Eggerth,Dale Evans Rogers.,False,0.0,0,7.209172964096069,2594.0,4.0,0.02,0.051879999999999996,0.07188
+"Which plant has more species, Teucrium or Atalaya?",Teucrium,Teucrium,True,1.0,1,7.826176404953003,3858.0,4.0,0.02,0.07716,0.09716000000000001
+When was the British-American journalist and editor born Who was the editor in chief of The September?,3 November 1949,"The British-American journalist and editor, Mehdi Raza Hasan, was born in July 1979. The editor in chief of The September is not mentioned in the provided evidence.",False,0.0,0,14.247541427612305,3789.0,5.0,0.02,0.07578000000000001,0.09578000000000002
+The person who presented Mary Queen of Shops television series was appointed by who to lead a review into the future of Britain's high streets?,David Cameron,Mary Portas was appointed by the British government to lead a review into the future of Britain's high streets.,False,0.0,0,8.647534370422363,4121.0,5.0,0.02,0.08242000000000001,0.10242000000000001
+"WDOM is currently owned by what private, coeducational, Roman Catholic university?",Providence College,Providence College,True,1.0,1,3.761493682861328,2582.0,3.0,0.01,0.051640000000000005,0.06164000000000001
+"For what group did Maurice Gibb play a variety of instruments and co-wrote the song ""Stayin' Alive""?",Bee Gees,Bee Gees.,True,1.0,1,6.5035316944122314,4261.0,5.0,0.02,0.08522,0.10522000000000001
+"Which processional racing driver was born on June 13, 1973 and worked alongside Adam Ferrara in an American television series?",Tanner Foust,"The professional racing driver who was born on June 13, 1973 and worked alongside Adam Ferrara in an American television series is not specified in the provided information. Further research and comparison is needed to determine the answer.",False,0.0,0,8.188722610473633,2875.0,5.0,0.02,0.05750000000000001,0.07750000000000001
+Lost Cause is a song by an artist mostly known for what?,his musical composition,"The artist is mostly known for the song ""Lost Cause"".",False,0.0,1,4.50535249710083,1738.0,3.0,0.01,0.03476,0.04476
+"What song written by American songwriter Johnny Marks, made popular by Burl Ives, is one of the Top 25 most performed holiday songs written by ASCAP members?",A Holly Jolly Christmas,"""Rudolph the Red-Nosed Reindeer""",False,0.0,0,12.46040415763855,3956.0,6.0,0.03,0.07912,0.10912
+"Don ""The Bull"" Adams was a bare-knuckle boxer, from Waltham Cross, Hertfordshire, in which UK country, at a planned fight at Holborn Stud Farm on Sunday, 26 October 1975, between himself and Roy “Pretty Boy” Shaw, was an English millionaire, real estate investor, author and businessman from the East End of London who was formerly a criminal and Category A prisoner?",England,"The planned fight at Holborn Stud Farm on Sunday, 26 October 1975, between Don ""The Bull"" Adams and Roy ""Pretty Boy"" Shaw was in the UK country of England.",False,0.07407407407407407,1,11.064671516418457,4462.0,7.0,0.03,0.08924000000000001,0.11924000000000001
+Which American rock band is from New Mexico Circa Survive or The Shins?,The Shins,Neither Circa Survive nor The Shins are from New Mexico.,False,0.19999999999999998,1,6.381079912185669,3531.0,4.0,0.02,0.07062,0.09062
+Who is the former quarterback and presenter of the halftime report during ESPN College Football Primetime?,Danny Kanell,The former quarterback and presenter of the halftime report during ESPN College Football Primetime is Jesse Palmer.,False,0.0,0,9.367045402526855,2048.0,3.0,0.01,0.04096,0.050960000000000005
+What film star from the Twilight Saga is from England?,Robert Pattinson,"Robert Pattinson, who plays Edward Cullen in the Twilight Saga, is from England.",False,0.2857142857142857,1,5.8944251537323,4635.0,5.0,0.02,0.0927,0.11270000000000001
+In what 2008 film directed by Tom Vaughan does Cameron Diaz appear? ,What Happens in Vegas,nan,False,0.0,0,,,,,,
+Are both Charles Band and M. Night Shyamalan known for making films with a comedic flair?,no,nan,False,0.0,0,,,,,,
+Which Louisiana Governor presiding over speaker Ralph Norman Bauer was a singer and songwriter?,Jimmie Davis,The Louisiana Governor who presided over speaker Ralph Norman Bauer and was a singer and songwriter was Jimmie Davis.,False,0.21052631578947367,1,6.912359237670898,2515.0,5.0,0.02,0.050300000000000004,0.0703
+When did the team formerly known as the Renault team design the Lotus E20?,2012 Formula One season,The team formerly known as Renault designed the Lotus E20 in 2011.,False,0.0,0,8.769323348999023,3872.0,6.0,0.02,0.07744000000000001,0.09744000000000001
+What is the name of an Afghanistan Sarbani tribe?,Alakozai,The name of an Afghanistan Sarbani tribe is Sarban.,False,0.0,0,7.489408016204834,1960.0,3.0,0.01,0.039200000000000006,0.04920000000000001
+Are both Pecom 32 and Applix 1616 based in Australia?,no,No. Pecom 32 is based in Serbia and Applix 1616 is based in Australia.,False,0.0,1,6.69016170501709,3029.0,4.0,0.02,0.06058,0.08058
+"The Forerunner was a monthly magazine produced by Charlotte Perkins Gilman (best known as the writer of ""The Yellow Wallpaper""), a 6,000-word short story by American writer Charlotte Perkins Gilman, first published in The New England Magazine, in what year?",1892,1915,False,0.0,0,9.561923742294312,4043.0,4.0,0.02,0.08086,0.10086
+What timezone do the United States Minor Outlying Islands observe?,Samoa Time,nan,False,0.0,0,,,,,,
+Which Australian politician founded CARE Australia ,John Malcolm Fraser,The Hon Kevin Andrews MP and the Hon Jenny Macklin MP.,False,0.0,0,8.124300956726074,3070.0,5.0,0.02,0.061399999999999996,0.0814
+Stefano Nava was a backup for which former right-back who now is the assistant coach for the Ukrainian national team?,Mauro Tassotti,"Stefano Nava was a backup for Mauro Tassotti, who is now the assistant coach for the Ukrainian national team.",False,0.2222222222222222,1,6.26592493057251,4809.0,5.0,0.02,0.09618,0.11618
+The 1994–95 U.C. Sampdoria season included a midfielder who was of what nationality?,English,Italian,False,0.0,0,6.976280927658081,3909.0,5.0,0.02,0.07818,0.09818
+"Landon T. Clay (born Landon Thomas Clay) was an American businessman and founder of the Clay Mathematics Institute (CMI),  a private, non-profit foundation, based in Peterborough, New Hampshire, in which country?",United States,"The Clay Mathematics Institute is currently based in Denver, Colorado, in the United States.",False,0.2857142857142857,1,4.927610397338867,4053.0,6.0,0.02,0.08106000000000001,0.10106000000000001
+Wonder World is the second studio album by a pop group formed by what producer?,Park Jin-young,Mark Stewart,False,0.0,0,7.016900300979614,3343.0,5.0,0.02,0.06686,0.08686
+"Pibb Xtra and Pet, Inc., are made in which country?",United States,"The evidence suggests that Pibb Xtra is made in the United States, while Pet, Inc. was an American company.",False,0.2222222222222222,1,6.703336715698242,4170.0,4.0,0.02,0.0834,0.1034
+Jack Reynolds won his first super bowl with the niners  in which season ?,the 1981 season,nan,False,0.0,0,,,,,,
+Kevin Brooks was born in a state bordered by what ocean?,Atlantic Ocean,The Atlantic Ocean.,True,1.0,1,12.182043075561523,3993.0,5.0,0.02,0.07986000000000001,0.09986000000000002
+What is the middle name of the leader of Quantrill's Raiders?,Clarke,Clarke,True,1.0,1,7.377443075180054,5279.0,5.0,0.02,0.10558000000000001,0.12558
+What profession does Adrian Brunel and Richard Oswald have in common?,director,They both have the profession of film director and screenwriter.,False,0.19999999999999998,1,7.792162656784058,3324.0,4.0,0.02,0.06648000000000001,0.08648000000000002
+"Frank Lucien Hale once accompanied a famous American aviator nicknamed Slim, Lucky Lindy, and The Lone Eagle on what?",a transcontinental flight,A transcontinental flight.,True,1.0,1,10.116920948028564,2665.0,4.0,0.02,0.05330000000000001,0.0733
+Singwango Secondary School had a sister school in a census-designated place in the town of North Hempstead in what county of New York?,Nassau County,nan,False,0.0,0,,,,,,
+"Which university is a public research university, Ashesi University or National Autonomous University of Mexico?",National Autonomous University of Mexico,National Autonomous University of Mexico,True,1.0,1,11.392448663711548,4467.0,4.0,0.02,0.08934,0.10934
+What Norwegian band has played at Sparebanken Sør Arena?,A-ha,A-ha.,True,1.0,1,5.439245700836182,3399.0,3.0,0.01,0.06798000000000001,0.07798000000000001
+Are both Thomas Reiter and Sigmund Jähn astronauts?,no,Yes. Both Thomas Reiter and Sigmund Jähn are astronauts.,False,0.0,0,8.849095344543457,3443.0,4.0,0.02,0.06886,0.08886000000000001
+Where did the helicopter crash take place that killed Vic Morrow?,"Valencia, Santa Clarita, California","The helicopter crash took place at Indian Dunes, near Castaic, California.",False,0.14285714285714288,0,3.860121011734009,2583.0,3.0,0.01,0.051660000000000005,0.061660000000000006
+"Clarence ""Keith"" Marquis Mitchell, is a former American football linebacker in which rganization,who played for the Houston Texans, a professional American football team based in Houston, Texas?",National Football League,nan,False,0.0,0,,,,,,
+" 1889–90 Burnley F.C. season had success in what football knockout tournament involving teams from Lancashire, England",Lancashire County Football Association Cup,The 1889-90 Burnley F.C. season had success in the Lancashire Senior Cup.,False,0.26666666666666666,1,6.608575105667114,2153.0,3.0,0.01,0.04306,0.05306
+Last in Line reunited in 2010 with the guitarist who was of what nationality?,Northern Irish,Northern Irish.,True,1.0,1,7.632459878921509,3393.0,5.0,0.02,0.06786,0.08786000000000001
+Who owns the news television channel who Andrew Ehinger is a reporter for?,Altice USA,News 12 Networks,False,0.0,0,7.047443866729736,2639.0,4.0,0.02,0.05278000000000001,0.07278000000000001
+"What distinctive surface is the historic Merton Street, that runs parallel to High Street in the southeastern university city of Oxford, England?",cobbled,The distinctive surface of Merton Street is cobbled.,False,0.25,1,5.112467050552368,4691.0,6.0,0.02,0.09382000000000001,0.11382000000000002
+I'll Sail My Ship Alone has been recorded by which American country music singer?,Mickey Leroy Gilley,nan,False,0.0,0,,,,,,
+"When was the American rapper from St. Louis, Missouri born who has guest appeared in New Jack City, Pt. II and who's one of the album is ""Country Grammar""?","November 2, 1974",nan,False,0.0,0,,,,,,
+"Although best known for playing Jesus, Brian Deacon also appeared in this 1972 British film by Michael Apted?",The Triple Echo,nan,False,0.0,0,,,,,,
+ Jagdgeschwader 52 was an aircraft used by the flying ace nicknamed what?,Bubi,nan,False,0.0,0,,,,,,
+Nexus and Girlfriends are both what?,magazine,nan,False,0.0,0,,,,,,
+What FA Trophy final was the 44th final where Grimsby Town was beaten?,2013 FA Trophy Final,nan,False,0.0,0,,,,,,
+"Rear Admiral (UH) Raymond A. Spicer, United States Navy, is the former director of the White House Military Office and reported as Deputy Assistant to the President and Director, White House Military Office in March 2007, and was succeeded by which American politician and member of the Democratic Party who served as the Director of the White House Military Office from January to May 2009, as the 17th United States Secretary of the Army?",Louis Caldera,nan,False,0.0,0,,,,,,
+Who directed the 2010 film in which Otto Jespersen starred ? ,"André Øvredal,",nan,False,0.0,0,,,,,,
+Bernadette Flynn was a dancer in the style that took its influence from what French style?,quadrilles,nan,False,0.0,0,,,,,,
+Were Andy Cairns and Richie Furay both members of the same band?,no,nan,False,0.0,1,,,,,,
+Are Vincenzo Bellini and Nikolai Rimsky-Korsakov both composers?,yes,nan,False,0.0,0,,,,,,
+"What role is the twin of Elaine Thompson most notable for playing in the television series ""Casualty""?  ",Charlie Fairhead,nan,False,0.0,0,,,,,,
+Who costarred as John Carroll Lynch's brother in his most recent film?,Nick Offerman,nan,False,0.0,0,,,,,,
+Specials for Cher's Do You Believe? tour were filmed a multi-purpose arena located on what?,Las Vegas Strip,nan,False,0.0,0,,,,,,
+"What percentage share of the worldwide data converter market did the publisher of ""Analog Dialogue"" have in 2012?",48.5%,nan,False,0.0,0,,,,,,
+Jack Zwerner won an event at which Las Vegas-based set of tournaments?,World Series of Poker,nan,False,0.0,0,,,,,,
+What Cuban born wrestler competed in Triplemania in Mexico City in 1993?,Konnan,nan,False,0.0,0,,,,,,
+"The American actress ""Patricia Kalember"" appeared in this 1990 merican psychological horror film directed by Adrian Lyne, which was produced by whom?",Alan Marshall,nan,False,0.0,0,,,,,,
+"Who appeared in both ""The Ace in the Hole"" and ""The Lion and the Horse""?",Ray Teal,nan,False,0.0,0,,,,,,
+"Bad Kitty was written by what American writer who has authored novels in several genres, including historical romance and suspense thrillers?",Michele Sharon Jaffe,nan,False,0.0,0,,,,,,
+"Which is located in Hengshui, Bei'an or Shenzhou City?",Shenzhou,nan,False,0.0,0,,,,,,
+Did Scott Pembroke and Eugeniusz Bodo die in the same city?,no,nan,False,0.0,0,,,,,,
+Dark Sermon has toured with which San Diego-based extreme metal band?,Cattle Decapitation,nan,False,0.0,0,,,,,,
+Gary LeVox and Stuart Murdoch share what profession?,singer and songwriter,nan,False,0.0,0,,,,,,
+What town on the banks of Six Mile Water did the Ramble Inn attack happen near?,"Antrim, Northern Ireland",nan,False,0.0,0,,,,,,
+Are Suizhou and Hejin in the same province?,no,nan,False,0.0,1,,,,,,
+"What did Francesco Levato receive his MFA in at the college in Henniker, New Hampshire?",Poetry,nan,False,0.0,0,,,,,,
+What magazine was established in 1988 by Frank Thomas and Keith White and has been associated with the Dirtbag Left?,The Baffler,nan,False,0.0,0,,,,,,
+How many seats can the stadium originally planned to host the 2017 NBA All-Star Game hold for NBA games?,"19,077",nan,False,0.0,0,,,,,,
+To what city did the 2015 Clemson Tigers football team travel to play in the 2015 Orange Bowl?,"Miami Gardens, Florida",nan,False,0.0,0,,,,,,
+Are Hans Simonsson and Julie Halard-Decugis both from Sweden?,No.,nan,False,0.0,1,,,,,,
+Heda Margolius Kovály survived a ghetto at the extermination camp built by the Third Reich in which nation's lands?,Polish,nan,False,0.0,0,,,,,,
+What South Korea-based girl group formed by S.M. Entertainment in 2009 was included in the debut EP of South Korean boy group Shinee music video?,f,nan,False,0.0,0,,,,,,
+What was the name of one of the buildings that Thomas Lumby worked on?,Doddington Hall,nan,False,0.0,0,,,,,,
+What weekly newsmagazine is published in the capital and largest city of Peru?,Lima,nan,False,0.0,0,,,,,,
+The Youth in Music championship is held in the stadium that was built on the site of what former stadium?,Hubert H. Humphrey Metrodome,nan,False,0.0,0,,,,,,
+"Which singer is South Korean, Mike Muir or Leo?",Leo,nan,False,0.0,0,,,,,,
+Which case Illinois v. Gates or Shelley v. Kraemer took place first ?,"Shelley v. Kraemer,",nan,False,0.0,0,,,,,,
+Which Bengali film stars Koyel Mullick and a former Rajya Sabha Member of Parliament?,Minister Fatakeshto,nan,False,0.0,0,,,,,,
+"What member of the Big 12 Conference and competes in NCAA Division I, fielding 16 varsity teams, had an American college wrestling icon considered one of the best American amateur wrestlers in recent history?",Iowa State Cyclones,nan,False,0.0,0,,,,,,
+"Between the tennis players, Carly Gullickson, and Pierre Barthès, which is of French nationality?",Pierre Barthès,nan,False,0.0,0,,,,,,
+"Bruno Bianchi, former racing driver, worked as an engineer at a multinational aerospace and transportation company based where?","Montreal, Quebec, Canada",nan,False,0.0,0,,,,,,
+"What was the name of the 1985 formed band, Fu Manchu's debut album?",No One Rides for Free,nan,False,0.0,0,,,,,,
+Are Patrinia and the Musa acuminata varieties of Banana both plants noted for their long-lasting flowers?,no,nan,False,0.0,0,,,,,,
+Avon Saxon created the role of Friar Tuck in the opera by which English composer?,Sir Arthur Seymour Sullivan MVO,nan,False,0.0,0,,,,,,
+"Which was released first, Brave or Sky High?",Sky High,nan,False,0.0,0,,,,,,
+"Sharon Kay Penman and Zora Neale Hurston, have which shared nationality?",American,nan,False,0.0,0,,,,,,
+"Who was born later, Frank Lucas or Ike Atkinson?",Frank Lucas,nan,False,0.0,0,,,,,,
+What was the population according to the 2010 census of the census-designated place where Max Loughan created a crystal radio?,"8,777",nan,False,0.0,0,,,,,,
+"St Walburga's Convent stands to the north of Balmoral Road, Lancaster, in Lancashire, the building is connected to the convent chapel of Lancaster Cathedral, also known as The Cathedral Church of St Peter, is in St Peter's Road, Lancaster, Lancashire, in which country?",England,nan,False,0.0,0,,,,,,
+"Minneapolis hosts Super Bowl LII, but which year did the city first host the event, at the Hubert H. Humphrey Metrodome downtown?",1992,nan,False,0.0,0,,,,,,
